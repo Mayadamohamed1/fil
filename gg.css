@@ -1,0 +1,66 @@
+
+
+
+
+.content {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.card{
+    background-color: rgb(193, 205, 216);
+    width: 20.25em;
+    box-shadow: 0 5px 30px rgba(1 1 1 / 50%);
+    border-radius: 10px;
+    padding-left: 100px;
+    margin: 10px;
+    
+  
+}
+
+
+.icon{
+    color: #36be23;
+    font-size: 3em;
+    text-align:center;
+}
+.info{
+    text-align: center;
+}
+div h4{
+    background-color: white; box-shadow: 10px 10px 10px gray ; width: 100px; height: 30px; border-radius: 10px;display: inline-block; color:orange;
+}
+.oo {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+hr{
+   opacity: 0.5;
+    width: 455px;
+    padding-right: 205px;
+    margin-left: -1px;
+}
+.t{ display: inline-block;
+
+}
+.o{
+    display: inline-block;
+}
+.ww{
+
+    background-color: rgb(33, 216, 106);
+    color: rgb(70, 43, 43);
+    font-size: 30px;
+    width: 47px;
+    height: 41px;
+    padding-left: 23px;
+    padding-top: 10px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
